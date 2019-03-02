@@ -1,0 +1,28 @@
+{
+  "name": "ng2-install",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "ng2-install": "bin/ng2-install"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizreginaldo/ng2-install.git"
+  },
+  "author": "Luiz Reginaldo <contato@luizreginaldo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizreginaldo/ng2-install/issues"
+  },
+  "homepage": "https://github.com/luizreginaldo/ng2-install#readme",
+  "dependencies": {
+    "git-clone": "^0.1.0",
+    "install": "^0.12.2",
+    "npm": "^6.8.0",
+    "rimraf": "^2.6.3"
+  }
+}
